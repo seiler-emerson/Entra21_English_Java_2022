@@ -1,8 +1,7 @@
 # Aula 03 - 09/05/2022
 
-[How_To_tell_the_time.pptx](Aula%2003%20-%2009%2005%202022%20b15328e276a04d7a86758a36f2721361/How_To_tell_the_time.pptx)
-
-[Simple_Present.docx](Aula%2003%20-%2009%2005%202022%20b15328e276a04d7a86758a36f2721361/Simple_Present.docx)
+[How_To_tell_the_time.pptx](./documents/How_To_tell_the_time.pptx)
+[Simple_Present.docx](./documents/Simple_Present.docx)
 
 # Simple Present
 
