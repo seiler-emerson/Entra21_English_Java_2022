@@ -13,3 +13,4 @@ Practical content carried out in the classroom during the Entra21 project.
 |Class 04 - 01|[Genetive Case](./Class_04-01/)
 |Class 04 - 02|[Review Activity 1](./Class_04-02/)
 |Class 05 - 01|[Vocabulary / Definite and Indefinite Articles](./Class_05/)
+|Class 06 - 01|[Personal Pronouns / Object Pronouns / Present Continuous](./Class_06/)
