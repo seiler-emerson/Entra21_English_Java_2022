@@ -4,7 +4,7 @@
 
 **PERSONAL** – Pronome pessoal só pode ser usado se estiver conjugando um verbo na frase.
 
-**OBJECTIVE** – Pronome objeto, possui a mesma tradução que o pronome pessoal, mas é usado quando não estiver conjugando um verbo.
+**OBJECTIVE** –  Pronome objeto, possui a mesma tradução que o pronome pessoal, mas é usado quando não estiver conjugando um verbo.
 
 | PERSONAL | OBJECTIVE  |
 | --- | --- |
