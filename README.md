@@ -16,3 +16,4 @@ Practical content carried out in the classroom during the Entra21 project.
 |Class 06 - 01|[Personal Pronouns / Object Pronouns / Present Continuous](./Class_06/)
 |Class 07 - 01|[Tourist trade](./Class_07/)
 |Class 08 - 01|[Simple Past](./Class_08/)
+|Class 09 - 01|[Review Activity 2](./Class_09/)
