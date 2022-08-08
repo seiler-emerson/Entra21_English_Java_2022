@@ -47,5 +47,3 @@
 2. When I am older I will to make a new house.
 3. When I am older I will to travel every semesters with my family.
 4. When I am older I will buy my dream equipments.
-
-# Detalhes
