@@ -18,3 +18,7 @@ Practical content carried out in the classroom during the Entra21 project.
 |Class 08 - 01|[Simple Past](./Class_08/)
 |Class 09 - 01|[Review Activity 2](./Class_09/)
 |Class 10 - 01|[Verb To Be - Simple Past](./Class_10/)
+|Class 11 - 01|[Will](./Class_11/)
+|Class 12 - 01|[Practice - Speak](./Class_12/)
+|Class 13 - 01|[Future Will - Future Going To](./Class_13/)
+|Class 14 - 01|[---](./Class_11/)
